@@ -1,6 +1,8 @@
 # Aleksei Korovin
-## Contacts: Telegram - @alevsey E-mail - bennykorovin@gmail.com
+## Telegram - @alevsey 
+## E-mail - bennykorovin@gmail.com
 
+### Hello, dear reader!
 I'm a C#/.NET Developer with 1+ year of experience.
 I'm very interested in WEB development and costantly improving my skills at it. Currently living in Ubud (Bali) and looking forward to opportunity.
 I graduated from DevEducation IT-college and passed internship in XCritical company. Also worked at Negtehim company as software developer using C#, SQL and VBA.
