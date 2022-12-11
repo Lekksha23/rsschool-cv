@@ -1,6 +1,5 @@
 # Aleksei Korovin
-# Contacts: Telegram - @alevsey
-E-mail - bennykorovin@gmail.com
+## Contacts: Telegram - @alevsey E-mail - bennykorovin@gmail.com
 
 I'm a C#/.NET Developer with 1+ year of experience.
 I'm very interested in WEB development and costantly improving my skills at it. Currently living in Ubud (Bali) and looking forward to opportunity.
@@ -17,3 +16,10 @@ I have experience with asynchronous programming and threading, SQL query optimiz
 Now I am actively looking for a job and continue to learn to program.
 I speak Russian (native), English (B2). 
 
+My experince including following technologies:
+- Languages: C#, HTML, CSS, JavaScript (beginner level)
+- Database: MS SQL
+- Frameworks: Entity Framework and EF Core, .Net Core, ASP.NET Core MVC
+- Work in different teams which use Git.
+- Project trackers: Jira, Trello.
+Also i'm working with WPF, WinForms, Dapper, MassTransit, RabbitMQ, PostMan and NUnit tests  
